@@ -1,8 +1,5 @@
 /**
- * Course : COMP 352
- * Student ID : 40205816
  * @author Younes Bouhaba
- *
  */
 import java.io.PrintStream;
 import java.io.FileOutputStream;
